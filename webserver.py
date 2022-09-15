@@ -3,6 +3,7 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 
 PORT = 8000
 NEW_PORT = 4444
+ft-nodejs-port = 223
 
 class SimpleHTTPRequestHandler(BaseHTTPRequestHandler):
  
