@@ -1,4 +1,4 @@
-
+# user sbi_sicherheit added
 from http.server import HTTPServer, BaseHTTPRequestHandler
 
 PORT = 8000
